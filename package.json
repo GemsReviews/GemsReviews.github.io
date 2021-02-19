@@ -2,6 +2,10 @@
     "name": "gems-reviews-landing",
     "version": "1.0.0",
     "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "node app.js"
+    },
     "repository": {
       "type": "git",
       "url": "git@github.com:GemsReviews/GemsReviews.github.io.git"
