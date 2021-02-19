@@ -1,18 +1,21 @@
 {
-    "name": "gems-reviews-landing",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-        "start": "node app.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:GemsReviews/GemsReviews.github.io.git"
-    },
-    "author": "https://cryptodev.tv",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/GemsReviews/GemsReviews.github.io/issues"
-    }
+  "name": "gems-reviews-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GemsReviews/GemsReviews.github.io.git"
+  },
+  "author": "https://cryptodev.tv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GemsReviews/GemsReviews.github.io/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
+}
