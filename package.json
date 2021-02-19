@@ -1,0 +1,14 @@
+{
+    "name": "gems-reviews-landing",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:GemsReviews/GemsReviews.github.io.git"
+    },
+    "author": "https://cryptodev.tv",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/GemsReviews/GemsReviews.github.io/issues"
+    }
+  }
